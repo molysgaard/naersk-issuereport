@@ -1,0 +1,3 @@
+[submodule "itoa"]
+	path = itoa
+	url = https://github.com/dtolnay/itoa.git
